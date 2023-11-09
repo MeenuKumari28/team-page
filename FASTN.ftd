@@ -1,0 +1,13 @@
+-- import: fastn
+
+-- fastn.package: meenukumari28.github.io/team-page
+favicon: /-/meenukumari28.github.io/team-page/favicon.ico
+
+-- fastn.dependency: fastn-community.github.io/doc-site as doc-site
+-- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: fastn-community.github.io/roboto-typography
+-- fastn.dependency: fastn-community.github.io/dark-flame-cs
+
+-- fastn.auto-import: meenukumari28.github.io/team-page/FASTN/ds
+-- fastn.auto-import: meenukumari28.github.io/team-page/assets
+-- fastn.auto-import: doc-site
