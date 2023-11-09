@@ -11,9 +11,3 @@ favicon: /-/meenukumari28.github.io/team-page/favicon.ico
 -- fastn.auto-import: meenukumari28.github.io/team-page/FASTN/ds
 -- fastn.auto-import: meenukumari28.github.io/team-page/assets
 -- fastn.auto-import: doc-site
-
--- fastn.sitemap:
-
-# Home: index.html
-
-- Right Sidebar Sample: /sidebar/
