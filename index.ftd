@@ -1,3 +1,1016 @@
--- ds.page: Team Page
+-- ds.page:
+full-width: true
+sidebar: false
+
+-- ds.h1: Team 1
+
+-- team: Meet our amazing team 
+
+-- team.members:
+
+-- member: Andy Smith
+profile: Founder and CEO
+image: $assets.files.assets.andy-smith.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member: Sophie Moore
+profile: VP of Marketing
+image: $assets.files.assets.sophie-moore.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member: Matt Cannon
+profile: VP of Product
+image: $assets.files.assets.matt-cannon.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member: Jonathan Barnes
+profile: Head of Marketing
+image: $assets.files.assets.team-member-1.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member: Andrew Barker
+profile: Customers Manager
+image: $assets.files.assets.team-member-2.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member: Nadine Adams
+profile: Content Manager
+image: $assets.files.assets.team-member-3.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- end: team.members
+
+-- end: team
+
+-- ds.h1: Team 2
+
+-- team: Meet our amazing team 
+
+-- team.members:
+
+-- member-2: Andy Smith
+profile: Founder and CEO
+image: $assets.files.assets.andy-smith.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member-2: Sophie Moore
+profile: VP of Marketing
+image: $assets.files.assets.sophie-moore.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member-2: Matt Cannon
+profile: VP of Product
+image: $assets.files.assets.matt-cannon.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member-2: Jonathan Barnes
+profile: Head of Marketing
+image: $assets.files.assets.team-member-1.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member-2: Andrew Barker
+profile: Customers Manager
+image: $assets.files.assets.team-member-2.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member-2: Nadine Adams
+profile: Content Manager
+image: $assets.files.assets.team-member-3.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- end: team.members
+
+-- end: team
+
+-- ds.h1: Team 3
+
+-- team: Meet our amazing team 
+
+-- team.members:
+
+-- member-3: Andy Smith
+profile: Founder and CEO
+image: $assets.files.assets.andy-smith.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member-3: Sophie Moore
+profile: VP of Marketing
+image: $assets.files.assets.sophie-moore.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member-3: Matt Cannon
+profile: VP of Product
+image: $assets.files.assets.matt-cannon.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member-3: Jonathan Barnes
+profile: Head of Marketing
+image: $assets.files.assets.team-member-1.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member-3: Andrew Barker
+profile: Customers Manager
+image: $assets.files.assets.team-member-2.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member-3: Nadine Adams
+profile: Content Manager
+image: $assets.files.assets.team-member-3.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- end: team.members
+
+-- end: team
+
+-- ds.h1: Team 4
+
+-- team: Meet our amazing team 
+
+-- team.members:
+
+-- member-4: Andy Smith
+profile: Founder and CEO
+image: $assets.files.assets.andy-smith.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member-4: Sophie Moore
+profile: VP of Marketing
+image: $assets.files.assets.sophie-moore.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member-4: Matt Cannon
+profile: VP of Product
+image: $assets.files.assets.matt-cannon.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member-4: Jonathan Barnes
+profile: Head of Marketing
+image: $assets.files.assets.team-member-1.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member-4: Andrew Barker
+profile: Customers Manager
+image: $assets.files.assets.team-member-2.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member-4: Nadine Adams
+profile: Content Manager
+image: $assets.files.assets.team-member-3.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- end: team.members
+
+-- end: team
+
+-- ds.h1: Team 5
+
+-- team: Meet our amazing team 
+
+-- team.members:
+
+-- member-5: Andy Smith
+profile: Founder and CEO
+image: $assets.files.assets.andy-smith.jpg
+
+-- member-5: Sophie Moore
+profile: VP of Marketing
+image: $assets.files.assets.sophie-moore.jpg
+
+-- member-5: Matt Cannon
+profile: VP of Product
+image: $assets.files.assets.matt-cannon.jpg
+
+-- member-5: Jonathan Barnes
+profile: Head of Marketing
+image: $assets.files.assets.team-member-1.jpg
+
+-- member-5: Andrew Barker
+profile: Customers Manager
+image: $assets.files.assets.team-member-2.jpg
+
+-- member-5: Nadine Adams
+profile: Content Manager
+image: $assets.files.assets.team-member-3.jpg
+
+-- end: team.members
+
+-- end: team
+
+-- ds.h1: Team 6
+
+-- team: Meet our amazing team 
+
+-- team.members:
+
+-- member-6: Andy Smith
+profile: Founder and CEO
+image: $assets.files.assets.andy-smith.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member-6: Sophie Moore
+profile: VP of Marketing
+image: $assets.files.assets.sophie-moore.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member-6: Matt Cannon
+profile: VP of Product
+image: $assets.files.assets.matt-cannon.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member-6: Jonathan Barnes
+profile: Head of Marketing
+image: $assets.files.assets.team-member-1.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member-6: Andrew Barker
+profile: Customers Manager
+image: $assets.files.assets.team-member-2.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- member-6: Nadine Adams
+profile: Content Manager
+image: $assets.files.assets.team-member-3.jpg
+twitter: $assets.files.assets.twitter.svg
+linkedin: $assets.files.assets.instagram.svg
+instagram: $assets.files.assets.linkedin.svg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
+-- end: team.members
+
+-- end: team
 
 -- end: ds.page
+
+
+
+
+
+
+
+
+
+
+-- component team:
+optional string tag:
+optional caption title:
+optional body body:
+ftd.ui list members:
+
+-- ftd.column:
+
+-- ftd.desktop:
+
+-- team-desktop: $team.title
+tag: $team.tag
+members: $team.members
+
+$team.body
+
+-- end: ftd.desktop
+
+-- ftd.mobile:
+
+-- team-mobile: $team.title
+tag: $team.tag
+members: $team.members
+
+$team.body
+
+-- end: ftd.mobile
+
+-- end: ftd.column
+
+-- end: team
+
+
+
+
+
+
+
+
+
+
+-- component team-desktop:
+optional string tag:
+optional caption title:
+optional body body:
+ftd.ui list members:
+
+-- ftd.column:
+width: fill-container
+align-content: center
+color: $inherited.colors.text-strong
+
+-- ftd.text: $team-desktop.tag
+if: {team-desktop.tag != NULL }
+color: $inherited.colors.custom.ten
+role: $inherited.types.copy-regular
+margin-bottom.px: 16
+
+-- ftd.text: $team-desktop.title
+if: { $team-desktop.title != NULL }
+role: $inherited.types.heading-medium
+text-align: center
+style: regular
+margin-bottom.px: 32
+
+-- ftd.text:
+if: { $team-desktop.body != NULL }
+role: $inherited.types.copy-regular
+margin-bottom.px: 32
+width.fixed.percent: 70
+text-align: center
+
+$team-desktop.body
+
+-- ftd.row:
+width: fill-container
+children: $team-desktop.members
+spacing.fixed.px: 64
+wrap: true
+align-content: center
+
+-- end: ftd.row
+
+-- end: ftd.column
+
+-- end: team-desktop
+
+
+
+
+
+
+
+
+
+
+-- component team-mobile:
+optional string tag:
+optional caption title:
+optional body body:
+ftd.ui list members:
+
+-- ftd.column:
+width: fill-container
+align-content: center
+color: $inherited.colors.text-strong
+
+-- ftd.text: $team-mobile.tag
+if: {team-mobile.tag != NULL }
+color: $inherited.colors.custom.one
+role: $inherited.types.copy-large
+margin-bottom.px: 16
+
+-- ftd.text: $team-mobile.title
+if: {team-mobile.title != NULL }
+width: fill-container
+role: $inherited.types.heading-medium
+text-align: center
+style: regular
+margin-bottom.px: 32
+
+-- ftd.text:
+if: { $team-mobile.body != NULL }
+role: $inherited.types.copy-regular
+margin-bottom.px: 32
+
+$team-mobile.body
+
+-- ftd.column:
+width: fill-container
+children: $team-mobile.members
+spacing.fixed.px: 16
+
+-- end: ftd.column
+
+-- end: ftd.column
+
+-- end: team-mobile
+
+
+
+
+
+
+
+
+
+
+-- component member:
+optional string profile:
+optional caption title:
+optional body body:
+boolean $hover: false
+optional ftd.image-src image:
+optional ftd.image-src twitter:
+optional ftd.image-src instagram:
+optional ftd.image-src linkedin:
+
+-- ftd.column:
+width.fixed.px: 346
+width if { ftd.device == "mobile" }: fill-container
+spacing.fixed.px: 12
+margin-bottom.px: 32
+padding.px: 30
+border-radius.px: 4
+background.solid: $inherited.colors.background.step-1
+
+-- ftd.image:
+if: { member.image != NULL }
+src: $member.image
+width.fixed.px: 250
+height.fixed.px: 250
+border-radius.percent: 50
+align-self: center
+
+-- ftd.text: $member.title
+if: { member.title != NULL }
+role: $inherited.types.heading-small
+color: $inherited.colors.text-strong
+style: bold
+
+-- ftd.text: $member.profile
+if: { member.profile != NULL }
+color: $inherited.colors.info.text
+role: $inherited.types.copy-regular
+
+-- ftd.text:
+if: { member.body != NULL }
+role: $inherited.types.copy-regular
+color: $inherited.colors.text
+style: light
+margin-top.px: 16
+
+$member.body
+
+-- ftd.row:
+spacing.fixed.px: 16
+align-content: center
+margin-top.px: 16
+
+-- ftd.image:
+src: $member.twitter
+width.fixed.px: 24
+height.fixed.px: 24
+
+-- ftd.image:
+src: $member.instagram
+width.fixed.px: 24
+height.fixed.px: 24
+
+-- ftd.image:
+src: $member.linkedin
+width.fixed.px: 24
+height.fixed.px: 24
+
+-- end: ftd.row
+
+-- end: ftd.column
+
+-- end: member
+
+
+
+
+
+
+
+
+
+
+
+-- component member-2:
+optional string profile:
+optional caption title:
+optional body body:
+boolean $hover: false
+optional ftd.image-src image:
+optional ftd.image-src twitter:
+optional ftd.image-src instagram:
+optional ftd.image-src linkedin:
+
+-- ftd.row:
+width.fixed.px: 565
+width if { ftd.device == "mobile" }: fill-container
+spacing.fixed.px: 64
+margin-bottom.px: 32
+padding.px: 30
+border-radius.px: 50
+background.solid: $inherited.colors.background.step-1
+
+-- ftd.image:
+if: { member-2.image != NULL }
+src: $member-2.image
+width.fixed.px: 180
+height.fixed.px: 180
+border-radius.percent: 50
+
+-- ftd.column:
+width: fill-container
+spacing.fixed.px: 24
+
+-- ftd.text: $member-2.profile
+if: { member-2.profile != NULL }
+color: $inherited.colors.text
+role: $inherited.types.copy-regular
+
+-- ftd.text: $member-2.title
+if: { member-2.title != NULL }
+role: $inherited.types.heading-small
+color: $inherited.colors.text-strong
+style: bold
+
+-- ftd.text:
+if: { member-2.body != NULL }
+role: $inherited.types.copy-regular
+color: $inherited.colors.text
+style: light
+
+$member-2.body
+
+-- ftd.row:
+spacing.fixed.px: 16
+align-content: center
+margin-top.px: 16
+
+-- ftd.image:
+src: $member-2.twitter
+width.fixed.px: 28
+height.fixed.px: 28
+
+-- ftd.image:
+src: $member-2.instagram
+width.fixed.px: 28
+height.fixed.px: 28
+
+-- ftd.image:
+src: $member-2.linkedin
+width.fixed.px: 28
+height.fixed.px: 28
+
+-- end: ftd.row
+
+-- end: ftd.column
+
+-- end: ftd.row
+
+-- end: member-2
+
+
+
+
+
+
+
+
+
+
+-- component member-3:
+optional string profile:
+optional caption title:
+optional body body:
+boolean $hover: false
+optional ftd.image-src image:
+optional ftd.image-src twitter:
+optional ftd.image-src instagram:
+optional ftd.image-src linkedin:
+
+-- ftd.column:
+width.fixed.px: 346
+width if { ftd.device == "mobile" }: fill-container
+margin-bottom.px: 32
+align-content: center
+
+-- ftd.image:
+if: { member-3.image != NULL }
+src: $member-3.image
+width.fixed.px: 258
+height.fixed.px: 258
+align-self: center
+
+-- ftd.column:
+width: fill-container
+spacing.fixed.px: 16
+align-content: center
+padding.px: 24
+background.solid: $inherited.colors.background.step-1
+
+-- ftd.text: $member-3.title
+if: { member-3.title != NULL }
+role: $inherited.types.heading-small
+color: $inherited.colors.text-strong
+style: bold
+
+-- ftd.text:
+if: { member-3.body != NULL }
+role: $inherited.types.copy-regular
+color: $inherited.colors.text
+style: light
+text-align: center
+
+$member-3.body
+
+-- ftd.row:
+spacing.fixed.px: 16
+align-content: center
+margin-top.px: 10
+
+-- ftd.image:
+src: $member-3.twitter
+width.fixed.px: 32
+height.fixed.px: 32
+background.solid: $inherited.colors.background.step-2
+border-radius.px: 4
+
+-- ftd.image:
+src: $member-3.instagram
+width.fixed.px: 32
+height.fixed.px: 32
+background.solid: $inherited.colors.background.step-2
+border-radius.px: 4
+
+-- ftd.image:
+src: $member-3.linkedin
+width.fixed.px: 32
+height.fixed.px: 32
+background.solid: $inherited.colors.background.step-2
+border-radius.px: 4
+
+-- end: ftd.row
+
+-- end: ftd.column
+
+-- end: ftd.column
+
+-- end: member-3
+
+
+
+
+
+
+
+
+
+
+
+
+-- component member-4:
+optional string profile:
+optional caption title:
+optional body body:
+boolean $hover: false
+optional ftd.image-src image:
+optional ftd.image-src twitter:
+optional ftd.image-src instagram:
+optional ftd.image-src linkedin:
+
+-- ftd.row:
+width.fixed.px: 565
+width if { ftd.device == "mobile" }: fill-container
+spacing.fixed.px: 64
+margin-bottom.px: 32
+padding.px: 30
+border-radius.px: 24
+background.solid: $inherited.colors.background.step-1
+
+-- ftd.column:
+spacing.fixed.px: 16
+align-content: center
+margin-top.px: 16
+
+-- ftd.image:
+src: $member-4.twitter
+width.fixed.px: 28
+height.fixed.px: 28
+
+-- ftd.image:
+src: $member-4.instagram
+width.fixed.px: 28
+height.fixed.px: 28
+
+-- ftd.image:
+src: $member-4.linkedin
+width.fixed.px: 28
+height.fixed.px: 28
+
+-- end: ftd.column
+
+-- ftd.column:
+width: fill-container
+spacing.fixed.px: 16
+
+-- ftd.row:
+width: fill-container
+spacing: space-between
+
+-- ftd.column:
+spacing.fixed.px: 16
+
+-- ftd.text: $member-4.profile
+if: { member-4.profile != NULL }
+color: $inherited.colors.text
+role: $inherited.types.copy-regular
+
+-- ftd.text: $member-4.title
+if: { member-4.title != NULL }
+role: $inherited.types.heading-small
+color: $inherited.colors.text-strong
+style: bold
+
+-- end: ftd.column
+
+-- ftd.image:
+if: { member-4.image != NULL }
+src: $member-4.image
+width.fixed.px: 64
+height.fixed.px: 64
+border-radius.percent: 50
+
+-- end: ftd.row
+
+-- ftd.text:
+if: { member-4.body != NULL }
+role: $inherited.types.copy-regular
+color: $inherited.colors.text
+style: light
+
+$member-4.body
+
+-- end: ftd.column
+
+-- end: ftd.row
+
+-- end: member-4
+
+
+
+
+
+
+
+
+
+
+-- component member-5:
+optional string profile:
+optional caption title:
+optional body body:
+boolean $hover: false
+optional ftd.image-src image:
+
+-- ftd.column:
+width.fixed.px: 360
+width if { ftd.device == "mobile" }: fill-container
+
+-- ftd.image:
+if: { member-5.image != NULL }
+src: $member-5.image
+width.fixed.px: 360
+height.fixed.px: 473
+fit: cover
+
+-- ftd.column:
+width.fixed.px: 360
+height.fixed.px: 473
+anchor: parent
+background.solid: #000000
+opacity: 0.6
+
+-- end: ftd.column
+
+-- ftd.column:
+width: fill-container
+anchor: parent 
+bottom.px: 24
+left.px: 24
+
+-- ftd.text: $member-5.title
+if: { member-5.title != NULL }
+role: $inherited.types.heading-medium
+color: $inherited.colors.text-strong
+style: bold
+
+-- ftd.text: $member-5.profile
+if: { member-5.profile != NULL }
+color: $inherited.colors.info.text
+role: $inherited.types.copy-large
+style: semi-bold
+
+-- ftd.text:
+if: { member-5.body != NULL }
+role: $inherited.types.copy-regular
+color: $inherited.colors.text
+
+
+$member-5.body
+
+-- end: ftd.column
+
+-- end: ftd.column
+
+-- end: member-5
+
+
+
+
+
+
+
+
+
+
+-- component member-6:
+optional string profile:
+optional caption title:
+optional body body:
+boolean $hover: false
+optional ftd.image-src image:
+optional ftd.image-src twitter:
+optional ftd.image-src instagram:
+optional ftd.image-src linkedin:
+
+-- ftd.column:
+width.fixed.px: 360
+width if { ftd.device == "mobile" }: fill-container
+spacing.fixed.px: 18
+align-content: center
+
+-- ftd.image:
+if: { member-6.image != NULL }
+src: $member-6.image
+width.fixed.px: 250
+height.fixed.px: 250
+border-radius.percent: 50
+align-self: center
+border-color: $inherited.colors.accent.primary
+padding.px: 16
+border-width.px: 10
+
+-- ftd.text: $member-6.title
+if: { member-6.title != NULL }
+role: $inherited.types.heading-small
+color: $inherited.colors.text-strong
+style: bold
+
+-- ftd.text: $member-6.profile
+if: { member-6.profile != NULL }
+color: $inherited.colors.info.text
+role: $inherited.types.copy-regular
+
+-- ftd.text:
+if: { member-6.body != NULL }
+role: $inherited.types.copy-regular
+color: $inherited.colors.text
+style: light
+text-align: center
+
+$member-6.body
+
+-- ftd.row:
+spacing.fixed.px: 16
+align-content: center
+margin-top.px: 16
+background.solid: $inherited.colors.cta-tertiary.disabled
+padding-vertical.px: 12
+width: fill-container
+
+-- ftd.image:
+src: $member-6.twitter
+width.fixed.px: 24
+height.fixed.px: 24
+
+-- ftd.image:
+src: $member-6.instagram
+width.fixed.px: 24
+height.fixed.px: 24
+
+-- ftd.image:
+src: $member-6.linkedin
+width.fixed.px: 24
+height.fixed.px: 24
+
+-- end: ftd.row
+
+-- end: ftd.column
+
+-- end: member-6
