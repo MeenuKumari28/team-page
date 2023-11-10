@@ -609,7 +609,6 @@ optional ftd.image-src instagram:
 optional ftd.image-src linkedin:
 
 -- ftd.column:
-width: fill-container
 
 -- ftd.desktop:
 
