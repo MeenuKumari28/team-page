@@ -608,6 +608,11 @@ optional ftd.image-src twitter:
 optional ftd.image-src instagram:
 optional ftd.image-src linkedin:
 
+-- ftd.column:
+width: fill-container
+
+-- ftd.desktop:
+
 -- ftd.row:
 width.fixed.px: 565
 width if { ftd.device == "mobile" }: fill-container
@@ -672,6 +677,79 @@ height.fixed.px: 28
 -- end: ftd.column
 
 -- end: ftd.row
+
+-- end: ftd.desktop
+
+-- ftd.mobile:
+
+-- ftd.column:
+width if { ftd.device == "mobile" }: fill-container
+spacing.fixed.px: 24
+margin-bottom.px: 32
+padding.px: 24
+border-radius.px: 50
+background.solid: $inherited.colors.background.step-1
+
+-- ftd.row:
+width: fill-container
+spacing.fixed.px: 32
+align-content: center
+
+-- ftd.image:
+if: { member-2.image != NULL }
+src: $member-2.image
+width.fixed.px: 124
+height.fixed.px: 124
+border-radius.percent: 50
+
+-- ftd.text: $member-2.title
+if: { member-2.title != NULL }
+role: $inherited.types.heading-small
+color: $inherited.colors.text-strong
+style: bold
+
+-- end: ftd.row
+
+-- ftd.text: $member-2.profile
+if: { member-2.profile != NULL }
+color: $inherited.colors.text
+role: $inherited.types.copy-regular
+
+-- ftd.text:
+if: { member-2.body != NULL }
+role: $inherited.types.copy-regular
+color: $inherited.colors.text
+style: light
+
+$member-2.body
+
+-- ftd.row:
+spacing.fixed.px: 16
+align-content: center
+margin-top.px: 16
+
+-- ftd.image:
+src: $member-2.twitter
+width.fixed.px: 28
+height.fixed.px: 28
+
+-- ftd.image:
+src: $member-2.instagram
+width.fixed.px: 28
+height.fixed.px: 28
+
+-- ftd.image:
+src: $member-2.linkedin
+width.fixed.px: 28
+height.fixed.px: 28
+
+-- end: ftd.row
+
+-- end: ftd.column
+
+-- end: ftd.mobile
+
+-- end: ftd.column
 
 -- end: member-2
 
